@@ -1,1 +1,0 @@
---Number of actors with last name starts with A?
