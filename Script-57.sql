@@ -2,4 +2,4 @@
 
 select count(customer_id)
 from rental
-where  DATE_PART('day', return_date)- DATE_PART('day', rental_date)=3;
+where date_part('day',return_date - rental_date)=3;
