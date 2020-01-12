@@ -1,7 +1,7 @@
---List of common distrisct
+--Distribution of address districts
 
-select district, count(*)
+select district, count(*) as cnt
 from address
 group by district
-order by count(*) desc;
+order by 2 desc;
 

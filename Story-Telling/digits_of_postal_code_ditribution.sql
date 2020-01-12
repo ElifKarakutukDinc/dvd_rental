@@ -1,6 +1,6 @@
---Group postal codes based on number of digits in the postal code
+--Distribution of postal code length
 
-select length(postal_code),count(*)
+select length(postal_code) as postal_code_length,count(*) as cnt
 from address
-group by length(postal_code)
-order by length(postal_code);
+group by 1
+order by 1;

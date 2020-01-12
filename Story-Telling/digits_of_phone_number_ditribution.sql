@@ -1,8 +1,8 @@
---Group phone numbers based on number of digits in the phone number
+--Distribution of phone number length
 
-select length(phone),count(*)
+select length(phone) as phone_length,count(*) as cnt
 from address
-group by length(phone)
-order by length(phone);
+group by 1
+order by 1;
 
 
