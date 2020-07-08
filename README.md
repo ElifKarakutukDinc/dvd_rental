@@ -3,7 +3,8 @@ SQL Analysis About Dvdrental Database
 
 DVD Rental Database is an open source database. You can download it from different resources. 
 I worked with Dvd Rental DB on tableau about DVD Rental Database Business Intelligence and Analytics. There are 12 dashboards on my Tableau Public Account. 
-https://public.tableau.com/profile/elif.karakutuk#!/ 
+My Account: https://public.tableau.com/profile/elif.karakutuk#!/ 
+DVD Rental Viz: https://tabsoft.co/2Za97nA 
 
 I collected my queries in different files by subject. 
 
