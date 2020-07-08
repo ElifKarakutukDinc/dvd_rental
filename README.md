@@ -1,4 +1,4 @@
-# dvdrental_sql
+# dvdrental
 SQL Analysis About Dvdrental Database
 
 DVD Rental Database is an open source database. You can download it from different resources. 
